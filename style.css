@@ -87,8 +87,8 @@ margin: 30px;
 margin-left: 110px;
 border-radius: 5px;
 background-color: rgb(205, 199, 199);
-background: linear-gradient(225deg, #cacaca, #f0f0f0);
-box-shadow:  0px 0px 10px #d2c9c9;
+background: rgb(247,245,245);
+background: linear-gradient(0deg, rgba(247,245,245,1) 57%, rgba(13,11,11,1) 100%);
         
 border: 1px solid #eee;
 }
